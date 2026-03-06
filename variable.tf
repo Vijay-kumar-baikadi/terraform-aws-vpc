@@ -17,5 +17,5 @@ variable "vpc_tags" {
 
 variable "igw_tags" {
     type = map
-    defau ={}
+    default ={}
 }
