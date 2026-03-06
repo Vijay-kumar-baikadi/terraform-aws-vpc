@@ -1,2 +1,0 @@
-Create VPC
-Create IGW and attach to vpc
